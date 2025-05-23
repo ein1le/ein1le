@@ -1,7 +1,8 @@
 # Hi there, I’m Ein!
 
 I'm a graduate **Mechanical Engineer** from the University of Bristol 🎓
-Despite my engineering background, I've become interested and aspire for roles in **data science, MLOps, AI Engineering, and full stack development** - meaning I love to try a little of everything and am actively looking to apply my skills to internships and graduate roles in operations and the **quantitative finance sector.**
+Despite my engineering background, I've become interested and aspire for roles in **data science, MLOps, AI Engineering, and full stack development** - meaning I love to try a little of everything and am actively looking to apply my skills.
+Currently, I'm actively looking for any internships and graduate roles in operations and the **quantitative finance sector** in London.
 
 ---
 
