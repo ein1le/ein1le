@@ -16,8 +16,4 @@ Currently, I'm actively looking for any internships and graduate roles in operat
 I’m always updating this page with new and ongoing projects.  
 **Stay tuned!** Portfolio coming soon. 
 
----
-
-## Connect with Me -> [LinkedIn](https://www.linkedin.com/in/wishawin/)
-
 *Thanks for stopping by! Feel free to check out my repos or reach out if you want to collaborate on any projects!*
