@@ -22,7 +22,7 @@ I’m always updating this page with new and ongoing projects.
 📞 +44 7534578468   
 ✉️ wishawin@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/wishawin/)  
-➤ [Telegram](https://t.me/einle1)
-
+➤  [Telegram](https://t.me/einle1)
+🇰  [Kaggle](https://www.kaggle.com/wishawinlertnawapan)  
 
 *Thanks for stopping by! Feel free to check out my repos or reach out if you want to collaborate on any projects!*
