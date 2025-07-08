@@ -9,12 +9,11 @@ Currently, I'm actively looking for any internships and graduate roles in operat
 ## Tech Stack & Skills
 
 - **Programming:** Python (PyTorch, TensorFlow and other Deep Learning Libraries), MATLAB, C++
-- **Data & Cloud:** Azure, SQL, AWS
-- **Full Stack in Progress:** JavaScript (React and modern frameworks)
+- **Cloud:** AWS and GCP
+- **Full Stack:** Javascript, Tailwind, React, MERN
 - Always learning and open to new challenges!
 
-I’m always updating this page with new and ongoing projects.  
-**Stay tuned!** Portfolio coming soon. 
+Explore my Portfolio: **www.tinyurl.com/wishawin** 
 
 ---
 
