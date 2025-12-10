@@ -10,10 +10,10 @@ Currently, I'm actively looking for any internships and graduate roles in operat
 
 - **Programming:** Python (PyTorch, TensorFlow and other Deep Learning Libraries), MATLAB, C++
 - **Cloud:** AWS and GCP
-- **Full Stack:** Javascript, Tailwind, React, MERN
+- **Full Stack:** MERN and Supabase
 - Always learning and open to new challenges!
 
-Explore my Portfolio: **www.tinyurl.com/wishawin** 
+Explore my Portfolio: **www.tinyurl.com/wlertnawapan**
 
 ---
 
